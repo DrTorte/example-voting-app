@@ -1,4 +1,4 @@
-EEEEEExample Voting App (GitOps + Helm Demo Env)
+EEExample Voting App (GitOps + Helm Demo Env)
 ----
 
 PreReqs:
